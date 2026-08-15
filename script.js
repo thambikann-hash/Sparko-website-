@@ -6,9 +6,9 @@
    the whole website reads from this one object.
    ========================================================= */
 const SPARKO_CONFIG = {
-  whatsappNumber: "91XXXXXXXXXX",       // digits only, country code first, no + or spaces
-  phoneNumber: "+91 XXXXXXXXXX",        // shown on the site and used by the "Call Now" button
-  email: "your-email@example.com",
+  whatsappNumber: "918778174076",       // digits only, country code first, no + or spaces
+  phoneNumber: "+91 8778174076",        // shown on the site and used by the "Call Now" button
+  email: "sparko.homecare@gmail.com",
   googleMapsUrl: "YOUR_GOOGLE_MAPS_LINK" // paste your full Google Maps share link here
 };
 
